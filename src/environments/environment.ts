@@ -15,6 +15,7 @@
 //   }
 // };
 export const environment = {
+
   production: false,
   firebase: {
    apiKey: "AIzaSyBjHbUCrn_n8FXumHbQ6cEBR4iH1BeF84M",
